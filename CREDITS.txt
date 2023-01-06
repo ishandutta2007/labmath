@@ -1,0 +1,11 @@
+Some parts of this library were copied from elsewhere on the internet.  When I
+first started assembling this library, I had no ambitions of publication, and as
+such, I wasn't terribly concerned with attribution; consequently, some of the
+proper sourcing of the copied code is lost.  The sources I can recall are:
+
+isqrt is largely unmodified from primo's post at
+https://codegolf.stackexchange.com/a/9088.
+
+siqs is derived from Stephan Kollman's repository at
+https://github.com/skollmann/PyFactorise.
+

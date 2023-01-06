@@ -1,0 +1,13 @@
+CHANGELOG.txt
+CREDITS.txt
+LICENSE
+MANIFEST.in
+README.rst
+pyproject.toml
+setup.cfg
+src/labmath/__init__.py
+src/labmath/labmath.py
+src/labmath.egg-info/PKG-INFO
+src/labmath.egg-info/SOURCES.txt
+src/labmath.egg-info/dependency_links.txt
+src/labmath.egg-info/top_level.txt
